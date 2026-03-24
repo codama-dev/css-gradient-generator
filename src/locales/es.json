@@ -1,0 +1,55 @@
+{
+  "app": {
+    "title": "Generador de Gradientes CSS",
+    "tagline": "Disena gradientes CSS impresionantes con un editor visual"
+  },
+  "pageHeader": {
+    "title": "Generador de Gradientes CSS Gratuito",
+    "subtitle": "Crea gradientes lineales, radiales y conicos hermosos - todo en tu navegador"
+  },
+  "tool": {
+    "linear": "Lineal",
+    "radial": "Radial",
+    "conic": "Conico",
+    "angle": "Angulo",
+    "position": "Posicion",
+    "addStop": "Agregar parada de color",
+    "removeStop": "Eliminar",
+    "copy": "Copiar CSS",
+    "copied": "Copiado!",
+    "copiedToClipboard": "CSS copiado al portapapeles",
+    "copyFailed": "Error al copiar",
+    "random": "Aleatorio",
+    "presets": "Plantillas",
+    "cssOutput": "Salida CSS",
+    "gradientType": "Tipo de gradiente",
+    "colorStops": "Paradas de color",
+    "reverse": "Invertir"
+  },
+  "theme": { "toggle": "Cambiar tema", "light": "Claro", "dark": "Oscuro", "system": "Sistema" },
+  "share": {
+    "title": "Te gusta? Compartelo!",
+    "description": "Ayuda a otros a descubrir esta herramienta gratuita",
+    "message": "Mira este generador de gradientes CSS gratuito - disena gradientes lineales, radiales y conicos con vista previa en vivo!",
+    "button": "Compartir", "whatsapp": "WhatsApp", "facebook": "Facebook", "x": "X (Twitter)", "linkedin": "LinkedIn", "email": "Correo",
+    "copyLink": "Copiar enlace", "copied": "Copiado!", "linkCopied": "Enlace copiado al portapapeles", "copyFailed": "No se pudo copiar el enlace",
+    "hideAfterDownload": "No mostrar de nuevo", "scanOrShare": "Comparte usando los botones de abajo", "shareVia": "Elige tu forma favorita de compartir",
+    "freeForever": "100% gratis, para siempre. Hecho para la comunidad.", "cardHint": "Ayuda a otros a descubrir esta herramienta"
+  },
+  "footer": { "createdWith": "Creado con", "freeBy": "100% gratis para la comunidad por", "moreTools": "Mas herramientas gratuitas de Codama" },
+  "language": { "label": "Idioma", "en": "English", "de": "Deutsch", "es": "Espanol", "he": "עברית" },
+  "nav": { "menu": "Menu", "home": "Inicio", "about": "Acerca de", "getAQuote": "Solicitar presupuesto", "openMenu": "Abrir menu", "closeMenu": "Cerrar menu" },
+  "about": {
+    "intro": "Esta pagina fue creada por el equipo de Codama. Somos una agencia de software que construye productos digitales y ayuda a las empresas a crecer.",
+    "hero": { "title": "Damos vida a tu vision digital. Inteligente, escalable y listo para lanzar.", "subtitle": "Trabajamos contigo para crear soluciones personalizadas que ayuden a tu negocio a crecer." },
+    "getAQuote": "Solicitar presupuesto", "backToTool": "Generador de Gradientes CSS", "ourServices": "Nuestros servicios",
+    "services": {
+      "webApps": { "title": "Aplicaciones web", "description": "Construimos aplicaciones web personalizadas que son rapidas, confiables y faciles de usar.", "tag1": "Diseno responsive", "tag2": "Stack moderno", "tag3": "Alto rendimiento" },
+      "mobile": { "title": "Aplicaciones moviles", "description": "Disenamos y desarrollamos aplicaciones moviles que se alinean con tus objetivos.", "tag1": "Nativo y multiplataforma", "tag2": "UX intuitiva", "tag3": "Arquitectura escalable" },
+      "automation": { "title": "Automatizacion e IA", "description": "Te ayudamos a ahorrar tiempo y trabajar de manera mas inteligente.", "tag1": "Automatizacion de procesos", "tag2": "Herramientas de IA", "tag3": "Eficiencia en flujos" },
+      "dataBi": { "title": "Datos y BI", "description": "Convertimos tus datos de negocio en insights claros y accionables.", "tag1": "Dashboards personalizados", "tag2": "Integracion de plataformas", "tag3": "Insights accionables" },
+      "businessWebsites": { "title": "Sitios web empresariales", "description": "Creamos sitios web WordPress modernos y faciles de gestionar.", "tag1": "Expertos en WordPress", "tag2": "Listo para negocios", "tag3": "SEO optimizado" }
+    },
+    "whyChoose": { "title": "Por que elegir Codama", "quote": "Tu conoces tu negocio mejor que nadie. Por eso empezamos escuchando." }
+  }
+}
